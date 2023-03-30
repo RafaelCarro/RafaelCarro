@@ -13,7 +13,7 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCarro&hide=html&layout=compact&theme=radical)](https://github.com/RafaelCarro/github-readme-stats)
 
 <p align="left">
-   Aqui vai uma mensagem para entrar em contato com você: ⤵️
+   Caso queira entrar em contato comigo: ⤵️
   
   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/RafaCarro)
 </p>  
