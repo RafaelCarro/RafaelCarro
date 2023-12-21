@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi, I'm Rafael Carro, I study Computer Engineering at <a href="http://www.unb.br">UNICAMP</a> (Universidade Estadual de Campinas), Brazil.
+  Hi, I'm Rafael Carro, I study Computer Engineering at <a href="https://ic.unicamp.br/">UNICAMP</a> (Universidade Estadual de Campinas), Brazil.
 </p>
 
 <p align="left">
